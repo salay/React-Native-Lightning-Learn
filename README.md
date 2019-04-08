@@ -15,5 +15,5 @@ The apps you are building with React Native aren't mobile web apps because React
 
 #### Resource Links
 
-https://facebook.github.io/react-native/docs/getting-started
-https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
+- https://facebook.github.io/react-native/docs/getting-started
+- https://medium.com/@alexmngn/from-reactjs-to-react-native-what-are-the-main-differences-between-both-d6e8e88ebf24
