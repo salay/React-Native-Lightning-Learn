@@ -2,9 +2,11 @@
 
 #Siri, Alom, Brandon, Paris
 
+React Native is an open-source mobile application framework created by Facebook. It is used to develop applications for Android, iOS and UWP by enabling developers to use React along with native platform capabilities. Works on both iOS and Android.
+
 ### Build native mobile apps using JavaScript and React
 
-React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI using declarative components.
+React Native lets you build mobile apps using only JavaScript. It uses the same design as React, letting you compose a rich mobile UI using declarative components. For example instead of using 'div' and 'span', you can use 'Text' and 'View'.
 
 ### A React Native app is a real mobile app
 
